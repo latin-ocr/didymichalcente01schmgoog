@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./didymichalcente01schmgoog_0008.png"; bbox 0 0 2812 4868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 1403 1015 1578">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 1403 1015 1578">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 1403 1015 1578; baseline 0.012 -18"><span class='ocrx_word' id='word_1_1' title='bbox 240 1549 245 1560; x_wconf 84' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 313 1459 531 1576; x_wconf 63' lang='lat' dir='ltr'><strong>mom</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 592 1403 1015 1578; x_wconf 71' lang='lat' dir='ltr'><strong>CHALCENTERI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 48 1817 1128 2066">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 48 1817 1128 2066">
+     <span class='ocr_line' id='line_1_2' title="bbox 48 1817 1128 1934; baseline -0.008 1"><span class='ocrx_word' id='word_1_4' title='bbox 48 1817 52 1826; x_wconf 87' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 187 1838 614 1934; x_wconf 75' lang='lat' dir='ltr'><strong>GRAMMATICI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 666 1824 1128 1933; x_wconf 77' lang='lat' dir='ltr'>ALE&#39;XANDRINI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 885 1989 1079 2066; baseline -0.01 0"><span class='ocrx_word' id='word_1_7' title='bbox 885 2061 886 2066; x_wconf 9' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 989 2049 992 2054; x_wconf 74' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1031 1989 1079 2064; x_wconf 50' lang='lat'><strong>⁴?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 535 2173 777 2250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 535 2173 777 2250">
+     <span class='ocr_line' id='line_1_4' title="bbox 535 2173 777 2250; baseline -0.017 0"><span class='ocrx_word' id='word_1_10' title='bbox 535 2173 777 2250; x_wconf 77' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 443 2481 872 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 443 2481 872 2546">
+     <span class='ocr_line' id='line_1_5' title="bbox 443 2481 872 2546; baseline -0.021 -7"><span class='ocrx_word' id='word_1_11' title='bbox 443 2485 531 2546; x_wconf 75' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_12' title='bbox 554 2481 742 2537; x_wconf 82' lang='lat' dir='ltr'>SUPERSUNT</span> <span class='ocrx_word' id='word_1_13' title='bbox 768 2481 872 2531; x_wconf 76' lang='grc' dir='ltr'>ΟΜΝΙΑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1410 4868">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1410 4868">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1410 4868; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1410 4868; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
